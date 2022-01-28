@@ -1,1 +1,1 @@
-
+<?php $conn = mysqli_connect('localhost', 'artdxire_work', 'artdxire_work', 'artdxire_work'); ?>
